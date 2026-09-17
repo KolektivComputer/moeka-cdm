@@ -1,8 +1,9 @@
-# Moeka Example Module
-This module is not intended to be included or loaded in a bot. It serves as a
-kitchen sink to show off the features of the engine. It can also be used as a
-git template for quickly bootstrapping modules, just change the name, strip the
-boilerplate, and go!
+# Moeka CDM
 
-## Legal
-This project is licensed under the [MIT License](LICENSE)
+Core Developer Module for Moeka. Early stub.
+
+Engine: [KolektivComputer/moeka](https://github.com/KolektivComputer/moeka)
+
+## License
+
+[MIT](LICENSE)
